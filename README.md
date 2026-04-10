@@ -50,10 +50,8 @@
 
 ## Pet Project Ideas:
 
-1. Build a simple hex editor that can view and modify binary files.
-2. Create a network packet sniffer and analyzer.
-3. Implement a basic file compression tool.
-4. Develop a character encoding converter supporting multiple encodings.
-5. Write a simple key-value store that efficiently handles binary data.
-
-Remember to consult the official Go documentation and use tools like `go vet` and `golint` to ensure your code follows best practices.
+- [ ] 1. Build a simple hex editor that can view and modify binary files.
+- [ ] 2. Create a network packet sniffer and analyzer.
+- [ ] 3. Implement a basic file compression tool.
+- [ ] 4. Develop a character encoding converter supporting multiple encodings.
+- [ ] 5. Write a simple key-value store that efficiently handles binary data.
